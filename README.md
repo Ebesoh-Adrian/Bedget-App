@@ -5,3 +5,7 @@ This project is a simple and cost-effective web application built using HTML, CS
 By avoiding external dependencies, this build ensures faster performance, greater flexibility, and full control over the codebase. It's perfect for learning, experimenting, or developing functional and visually appealing web experiences on a budget.
 
 Whether you're a beginner or an experienced developer, this project provides a practical foundation for creating modern, responsive web applications with minimal complexity.
+
+ This Project can be clone by any individual.
+
+ developed by E Adrian
