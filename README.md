@@ -1,4 +1,4 @@
-# Bedget-App
+# Budget-App
 About This Budget Build
 This project is a simple and cost-effective web application built using HTML, CSS, and JavaScript—no frameworks, just pure core web technologies. The goal is to deliver a lightweight, efficient, and easily maintainable solution that focuses on simplicity and accessibility.
 
